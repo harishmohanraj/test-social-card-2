@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "test-social-card-2"
+  site-url: "https://harishmohanraj.github.io/test-social-card-2"
+  description: "test-social-card-2"
+  repo-branch: main
+  repo-url: "https://github.com/harishmohanraj/test-social-card-2"
